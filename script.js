@@ -28,3 +28,5 @@ function game() {
         console.log(playRound())
     }
 }
+
+console.log (game())
